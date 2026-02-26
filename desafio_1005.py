@@ -18,3 +18,8 @@ de imprimir o fim de linha após o resultado, caso contrário, você receberá
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1005
 
 # Escreva sua solução abaixo
+A=float(input())
+B=float(input())
+
+MEDIA=(A+B)/2
+print("MEDIA = "MEDIA)
