@@ -20,4 +20,4 @@ B=int(input())
 
 PROD=(A*B)
 
-print("PROD = "PROD)
+print("PROD = ", PROD)
